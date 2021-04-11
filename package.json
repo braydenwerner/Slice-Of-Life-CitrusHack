@@ -1,0 +1,25 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@react-native-google-signin/google-signin": "^6.0.0",
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.6",
+    "cors": "^2.8.5",
+    "expo-server-sdk": "^3.6.0",
+    "express": "^4.17.1",
+    "http": "0.0.1-security",
+    "node-cron": "^3.0.0",
+    "pg": "^8.5.1",
+    "puppeteer": "^8.0.0",
+    "uuid": "^8.3.2"
+  }
+}
